@@ -2,5 +2,6 @@
 
 This is a simple readme file
 
-New line on Master
-On a branch
+Heading 2
+
+Just something going on
